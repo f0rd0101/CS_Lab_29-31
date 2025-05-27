@@ -70,7 +70,7 @@ void word() {
 int main() {
     PF = fopen("prog.txt", "r");
     if (!PF) {
-        printf("Файл prog.txt не відкрився!\n");
+        printf("Г”Г Г©Г« prog.txt Г­ГҐ ГўВіГ¤ГЄГ°ГЁГўГ±Гї!\n");
         return 1;
     }
 
